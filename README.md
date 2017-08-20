@@ -1,9 +1,5 @@
 # Vip5GbHotspot
 
-A Tasker project which turns your phone into a 5GB mobile hotspot
-
-## What's this?
-
 This is a Tasker project built for automatic renewal of [Vipme daily option (5GB)](http://www.vipnet.hr/privatni/mobilni-internet-na-bonove) for VIP prepaid broadband.
 
 ## What is Vipme daily option?
